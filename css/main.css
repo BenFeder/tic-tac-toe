@@ -1,2 +1,21 @@
+* {
+  font-size: 75px;
+}
 
-/*  Put your CSS Here */
+h1 {
+  font-size: 25px;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+}
+td:hover {
+  background: orange;
+  cursor: pointer;
+}
+
+table {
+  border: 1px solid green;
+}
